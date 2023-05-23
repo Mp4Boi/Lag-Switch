@@ -1,9 +1,6 @@
-﻿
 Menu, Tray, Icon, shell32.dll, 325
 
-
 toggle := 0
-
 
 e::
     toggle := !toggle
