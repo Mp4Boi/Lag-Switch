@@ -8,7 +8,7 @@ toggle := 0
 e::
     toggle := !toggle
     
-    ; Disconnect or reconnect based on the current state
+    ; Disconnect or reconnect
     if (toggle)
     {
         RunWait, %comspec% /c ipconfig /release, , Hide
