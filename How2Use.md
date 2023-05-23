@@ -7,4 +7,4 @@
 
 - To enable or disable the lag, press the keybind 'E'.
 
-- To change the keybind, modify the "e::" to "p::" or any other desired keybind you have configured.
+- To change the keybind, modify the "e::" to "p::" or any other desired keybind you want.
